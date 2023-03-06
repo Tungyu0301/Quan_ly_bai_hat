@@ -1,0 +1,39 @@
+F:\detai_HoangQuan\BUS_Tier\obj\Debug\ResolveAssemblyReference.cache
+F:\detai_HoangQuan\BUS_Tier\bin\Debug\BUS_Tier.dll
+F:\detai_HoangQuan\BUS_Tier\bin\Debug\BUS_Tier.pdb
+F:\detai_HoangQuan\BUS_Tier\bin\Debug\DATA_Tier.dll
+F:\detai_HoangQuan\BUS_Tier\bin\Debug\DATA_Tier.pdb
+F:\detai_HoangQuan\BUS_Tier\obj\Debug\BUS_Tier.dll
+F:\detai_HoangQuan\BUS_Tier\obj\Debug\BUS_Tier.pdb
+D:\DeTai_Quankute\detai_HoangQuan\BUS_Tier\bin\Debug\BUS_Tier.dll
+D:\DeTai_Quankute\detai_HoangQuan\BUS_Tier\bin\Debug\BUS_Tier.pdb
+D:\DeTai_Quankute\detai_HoangQuan\BUS_Tier\bin\Debug\DATA_Tier.dll
+D:\DeTai_Quankute\detai_HoangQuan\BUS_Tier\bin\Debug\DATA_Tier.pdb
+D:\DeTai_Quankute\detai_HoangQuan\BUS_Tier\obj\Debug\ResolveAssemblyReference.cache
+D:\DeTai_Quankute\detai_HoangQuan\BUS_Tier\obj\Debug\BUS_Tier.dll
+D:\DeTai_Quankute\detai_HoangQuan\BUS_Tier\obj\Debug\BUS_Tier.pdb
+D:\detai_HoangQuan\BUS_Tier\bin\Debug\BUS_Tier.dll
+D:\detai_HoangQuan\BUS_Tier\bin\Debug\BUS_Tier.pdb
+D:\detai_HoangQuan\BUS_Tier\bin\Debug\DATA_Tier.dll
+D:\detai_HoangQuan\BUS_Tier\bin\Debug\DATA_Tier.pdb
+D:\detai_HoangQuan\BUS_Tier\obj\Debug\ResolveAssemblyReference.cache
+D:\detai_HoangQuan\BUS_Tier\obj\Debug\BUS_Tier.dll
+D:\detai_HoangQuan\BUS_Tier\obj\Debug\BUS_Tier.pdb
+C:\Users\hoang\Desktop\Quản lý bài hát C#\NCTH4D_HoangQuan_MinhVu_TrungThuc\BUS_Tier\bin\Debug\BUS_Tier.dll
+C:\Users\hoang\Desktop\Quản lý bài hát C#\NCTH4D_HoangQuan_MinhVu_TrungThuc\BUS_Tier\bin\Debug\BUS_Tier.pdb
+C:\Users\hoang\Desktop\Quản lý bài hát C#\NCTH4D_HoangQuan_MinhVu_TrungThuc\BUS_Tier\bin\Debug\DATA_Tier.dll
+C:\Users\hoang\Desktop\Quản lý bài hát C#\NCTH4D_HoangQuan_MinhVu_TrungThuc\BUS_Tier\bin\Debug\DATA_Tier.pdb
+C:\Users\hoang\Desktop\Quản lý bài hát C#\NCTH4D_HoangQuan_MinhVu_TrungThuc\BUS_Tier\obj\Debug\BUS_Tier.csproj.AssemblyReference.cache
+C:\Users\hoang\Desktop\Quản lý bài hát C#\NCTH4D_HoangQuan_MinhVu_TrungThuc\BUS_Tier\obj\Debug\BUS_Tier.csproj.CoreCompileInputs.cache
+C:\Users\hoang\Desktop\Quản lý bài hát C#\NCTH4D_HoangQuan_MinhVu_TrungThuc\BUS_Tier\obj\Debug\BUS_Tier.csproj.CopyComplete
+C:\Users\hoang\Desktop\Quản lý bài hát C#\NCTH4D_HoangQuan_MinhVu_TrungThuc\BUS_Tier\obj\Debug\BUS_Tier.dll
+C:\Users\hoang\Desktop\Quản lý bài hát C#\NCTH4D_HoangQuan_MinhVu_TrungThuc\BUS_Tier\obj\Debug\BUS_Tier.pdb
+C:\Users\hoang\Desktop\Quản lý bài hát test\NCTH4D_HoangQuan_MinhVu_TrungThuc\BUS_Tier\bin\Debug\BUS_Tier.dll
+C:\Users\hoang\Desktop\Quản lý bài hát test\NCTH4D_HoangQuan_MinhVu_TrungThuc\BUS_Tier\bin\Debug\BUS_Tier.pdb
+C:\Users\hoang\Desktop\Quản lý bài hát test\NCTH4D_HoangQuan_MinhVu_TrungThuc\BUS_Tier\bin\Debug\DATA_Tier.dll
+C:\Users\hoang\Desktop\Quản lý bài hát test\NCTH4D_HoangQuan_MinhVu_TrungThuc\BUS_Tier\bin\Debug\DATA_Tier.pdb
+C:\Users\hoang\Desktop\Quản lý bài hát test\NCTH4D_HoangQuan_MinhVu_TrungThuc\BUS_Tier\obj\Debug\BUS_Tier.csproj.AssemblyReference.cache
+C:\Users\hoang\Desktop\Quản lý bài hát test\NCTH4D_HoangQuan_MinhVu_TrungThuc\BUS_Tier\obj\Debug\BUS_Tier.csproj.CoreCompileInputs.cache
+C:\Users\hoang\Desktop\Quản lý bài hát test\NCTH4D_HoangQuan_MinhVu_TrungThuc\BUS_Tier\obj\Debug\BUS_Tier.csproj.CopyComplete
+C:\Users\hoang\Desktop\Quản lý bài hát test\NCTH4D_HoangQuan_MinhVu_TrungThuc\BUS_Tier\obj\Debug\BUS_Tier.dll
+C:\Users\hoang\Desktop\Quản lý bài hát test\NCTH4D_HoangQuan_MinhVu_TrungThuc\BUS_Tier\obj\Debug\BUS_Tier.pdb
